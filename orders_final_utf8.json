@@ -1,0 +1,100 @@
+﻿Fetching recent orders...
+{
+  "data": [
+    {
+      "bill_full_name": "Tran Thuy",
+      "id": 3056,
+      "inserted_at": "2026-05-13T01:39:30.610326",
+      "status": 9
+    },
+    {
+      "bill_full_name": "P******g",
+      "id": "2605138T40RWPY",
+      "inserted_at": "2026-05-12T16:35:31.000000",
+      "status": 1
+    },
+    {
+      "bill_full_name": "T*****l",
+      "id": "2605128NVM77FP",
+      "inserted_at": "2026-05-12T15:19:47.000000",
+      "status": 1
+    },
+    {
+      "bill_full_name": "Phương Thanh",
+      "id": 3053,
+      "inserted_at": "2026-05-12T04:58:25.632259",
+      "status": 3
+    },
+    {
+      "bill_full_name": "N******g",
+      "id": "26051164EQ092J",
+      "inserted_at": "2026-05-11T15:02:27.000000",
+      "status": 2
+    }
+  ],
+  "success": true,
+  "page_number": 1,
+  "page_size": 5,
+  "total_entries": 2910,
+  "total_pages": 582,
+  "aggs": {
+    "cod": {
+      "value": 51990469
+    },
+    "partner_fee": {
+      "value": 475100
+    },
+    "prepaid": {
+      "value": 1750000
+    },
+    "shipping_fee": {
+      "value": 405585
+    },
+    "status": {
+      "buckets": [
+        {
+          "doc_count": 2668,
+          "key": "0"
+        },
+        {
+          "doc_count": 153,
+          "key": "3"
+        },
+        {
+          "doc_count": 67,
+          "key": "6"
+        },
+        {
+          "doc_count": 8,
+          "key": "2"
+        },
+        {
+          "doc_count": 8,
+          "key": "4"
+        },
+        {
+          "doc_count": 2,
+          "key": "1"
+        },
+        {
+          "doc_count": 2,
+          "key": "5"
+        },
+        {
+          "doc_count": 1,
+          "key": "16"
+        },
+        {
+          "doc_count": 1,
+          "key": "9"
+        }
+      ],
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0
+    },
+    "tag": {
+      "buckets": null,
+      "doc_count": 28
+    }
+  }
+}
