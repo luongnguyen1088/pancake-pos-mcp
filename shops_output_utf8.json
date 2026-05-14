@@ -1,0 +1,1509 @@
+Accessible shops: {
+  "shops": [
+    {
+      "avatar_url": "https://content.pancake.vn/2-24/2024/5/21/06a54d049b2492f7edb01080de52b7cdd16ba19d.jpg",
+      "currency": "VND",
+      "id": 1290002634,
+      "link_post_marketer": [
+        {
+          "ad_account_id": null,
+          "id": "10b68851-cd10-4ca8-a3a8-795dee04dc57",
+          "inserted_at": "2024-05-21T23:21:42",
+          "is_link_source": true,
+          "marketer": "eced82d8-d129-451d-bad4-3230f0c9a24b",
+          "multiple_post": [],
+          "multiple_source": [
+            {
+              "account": "1720000461",
+              "key": "-3",
+              "page_id": null
+            },
+            {
+              "account": "spo_189485585",
+              "key": "-3",
+              "page_id": "spo_189485585"
+            },
+            {
+              "account": "spo_242046461",
+              "key": "-3",
+              "page_id": "spo_242046461"
+            },
+            {
+              "account": "1290000385",
+              "key": "-3",
+              "page_id": null
+            },
+            {
+              "account": "430000402",
+              "key": "-3",
+              "page_id": null
+            },
+            {
+              "account": "860000427",
+              "key": "-3",
+              "page_id": null
+            }
+          ],
+          "post_id": null,
+          "shop_id": 1290002634,
+          "source": null,
+          "type": "source"
+        }
+      ],
+      "name": "Baobi24",
+      "pages": [
+        {
+          "id": "pzl_691447990445415854",
+          "is_onboard_xendit": null,
+          "name": "Xưởng Vật Tư",
+          "phone_number": "+84967491229",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": true,
+            "current_settings_key": "/bhOvh/1sONVd5RC"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#822ba1",
+              "id": 1,
+              "lighten_color": "#d9bfe2",
+              "text": "Spam Fb"
+            },
+            {
+              "color": "#0d5aff",
+              "id": 2,
+              "lighten_color": "#b6cdff",
+              "text": "Mua hàng"
+            },
+            {
+              "color": "#009344",
+              "id": 3,
+              "lighten_color": "#b2dec6",
+              "text": "Tiềm năng"
+            },
+            {
+              "color": "#38a6f4",
+              "id": 4,
+              "lighten_color": "#c3e4fb",
+              "text": "TB Gía Cao"
+            },
+            {
+              "color": "#4b595e",
+              "id": 6,
+              "is_lead_event": false,
+              "lighten_color": "rgba(75,89,94,0.4)",
+              "text": "TB k có hàng"
+            },
+            {
+              "color": "#cec700",
+              "id": 7,
+              "is_lead_event": false,
+              "lighten_color": "rgba(206,199,0,0.4)",
+              "text": "TB ship cao"
+            }
+          ],
+          "username": "pzl_84967491229"
+        },
+        {
+          "id": "pzl_708497899213307950",
+          "is_onboard_xendit": null,
+          "name": "Vật Tư Gói Hàng",
+          "phone_number": "+84965754529",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": true,
+            "current_settings_key": "5fJ7vztKBpFQzfXr"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#822ba1",
+              "id": 1,
+              "lighten_color": "#d9bfe2",
+              "text": "Châu"
+            },
+            {
+              "color": "#0d5aff",
+              "id": 2,
+              "lighten_color": "#b6cdff",
+              "text": "Mua hàng"
+            },
+            {
+              "color": "#009344",
+              "id": 3,
+              "lighten_color": "#b2dec6",
+              "text": "Ngọc"
+            },
+            {
+              "color": "#38a6f4",
+              "id": 4,
+              "lighten_color": "#c3e4fb",
+              "text": "KH Tiềm Năng"
+            },
+            {
+              "color": "#bd2727",
+              "id": 5,
+              "lighten_color": "#ebbebe",
+              "text": "TB giá cao"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 6,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "Spam Fb"
+            },
+            {
+              "color": "#e99f32",
+              "id": 7,
+              "is_lead_event": false,
+              "lighten_color": "rgba(233,159,50,0.4)",
+              "text": "Cần follow"
+            }
+          ],
+          "username": "pzl_84965754529"
+        },
+        {
+          "id": "pzl_783952769101510061",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng Niêm Phong",
+          "phone_number": "+84978673461",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": true,
+            "current_settings_key": "j9UOILab9/sCuGrc"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#4b5577",
+              "id": 0,
+              "lighten_color": "#c9ccd6",
+              "text": "Kiểm hàng"
+            },
+            {
+              "color": "#822ba1",
+              "id": 1,
+              "lighten_color": "#d9bfe2",
+              "text": "Câu hỏi"
+            },
+            {
+              "color": "#0d5aff",
+              "id": 2,
+              "lighten_color": "#b6cdff",
+              "text": "Mua hàng"
+            },
+            {
+              "color": "#009344",
+              "id": 3,
+              "lighten_color": "#b2dec6",
+              "text": "Đã gửi"
+            },
+            {
+              "color": "#38a6f4",
+              "id": 4,
+              "lighten_color": "#c3e4fb",
+              "text": "Hết hàng"
+            },
+            {
+              "color": "#bd2727",
+              "id": 5,
+              "lighten_color": "#ebbebe",
+              "text": "Trả hàng"
+            }
+          ],
+          "username": "pzl_84978673461"
+        },
+        {
+          "id": "spo_167562181",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng - BaoBi24",
+          "phone_number": null,
+          "platform": "shopee_official",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "Jqy/iAASZ7gNu7cW"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 41,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 42,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 43,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 44,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 45,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 46,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 47,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 48,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 49,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 50,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#ce220c",
+              "id": 51,
+              "is_lead_event": false,
+              "lighten_color": "rgba(206,34,12,0.4)",
+              "text": "TB tư vấn trễ"
+            },
+            {
+              "color": "#9254de",
+              "id": 52,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            }
+          ],
+          "username": "spo_TiGiHngBaoBi24"
+        },
+        {
+          "id": "pzl_494480250232533025",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng Claro",
+          "phone_number": "+84967452127",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "2FwUh5RG3aXATiA7"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 63,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 64,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 65,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 66,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 67,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#1890ff",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(24,144,255,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#1cae67",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84967452127"
+        },
+        {
+          "id": "pzl_488987270710628001",
+          "is_onboard_xendit": null,
+          "name": "Túi Đóng Hàng Claro",
+          "phone_number": "+84976209513",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "XXXb2oXinFUuqGN/"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 63,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 64,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 65,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 66,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 67,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#1890ff",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(24,144,255,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#1cae67",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84976209513"
+        },
+        {
+          "id": "852763498195537",
+          "is_onboard_xendit": null,
+          "name": "Vật tư đóng gói - Baobi24",
+          "phone_number": null,
+          "platform": "facebook",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "ttwsS79GG6qy+0Hx"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#1cae67",
+              "id": 21,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Bảo Ngọc"
+            },
+            {
+              "color": "#822ba1",
+              "description": "Đang Tư Vấn",
+              "id": 22,
+              "is_lead_event": false,
+              "lighten_color": "rgba(130,43,161,0.4)",
+              "text": "Đang Tư Vấn"
+            },
+            {
+              "color": "#1cae67",
+              "description": "Thành Công - Đã Chốt Đơn",
+              "id": 23,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Đã Chốt Đơn"
+            },
+            {
+              "color": "#ff7a45",
+              "id": 24,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,122,69,0.4)",
+              "text": "Không có SP"
+            },
+            {
+              "color": "#1890ff",
+              "id": 25,
+              "is_lead_event": false,
+              "lighten_color": "rgba(24,144,255,0.4)",
+              "text": "Minh châu"
+            },
+            {
+              "color": "#000000",
+              "id": 26,
+              "is_lead_event": false,
+              "lighten_color": "rgba(0,0,0,0.4)",
+              "text": "Khách Tiềm Năng"
+            },
+            {
+              "color": "#0e2f44",
+              "id": 27,
+              "is_lead_event": false,
+              "lighten_color": "rgba(14,47,68,0.4)",
+              "text": "Đang Suy Nghĩ "
+            },
+            {
+              "color": "#5b5b53",
+              "id": 28,
+              "is_lead_event": false,
+              "lighten_color": "rgba(91,91,83,0.4)",
+              "text": "Không phản hồi"
+            }
+          ],
+          "username": "vattudonggoi.baobi24"
+        },
+        {
+          "id": "102942164453884",
+          "is_onboard_xendit": null,
+          "name": "Bao Bì Đóng Gói",
+          "phone_number": null,
+          "platform": "facebook",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "qd/lxEWeZ3tPWmT1"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 73,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#ce220c",
+              "id": 78,
+              "is_lead_event": false,
+              "lighten_color": "rgba(206,34,12,0.4)",
+              "text": "TB tư vấn trễ"
+            },
+            {
+              "color": "#9254de",
+              "id": 79,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 80,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#1550c6",
+              "description": "",
+              "id": 82,
+              "is_lead_event": false,
+              "lighten_color": "rgba(21,80,198,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#9254de",
+              "id": 83,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Thu Hoài"
+            },
+            {
+              "color": "#1cae67",
+              "id": 84,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "baobi24com"
+        },
+        {
+          "id": "spo_189485585",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng SG - BaoBi24",
+          "phone_number": null,
+          "platform": "shopee_official",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "rENpXYA/YrNGfvg5"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 67,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 73,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#ce220c",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(206,34,12,0.4)",
+              "text": "TB tư vấn trễ"
+            },
+            {
+              "color": "#9254de",
+              "id": 78,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 79,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            }
+          ],
+          "username": "spo_TiGiHngSGBaoBi241773"
+        },
+        {
+          "id": "zl_2769010020238990468",
+          "is_onboard_xendit": null,
+          "name": "CLARO Vietnam",
+          "phone_number": null,
+          "platform": "zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "oujt9MSBMUXgUJWK"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 65,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 66,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 67,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 73,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#ce220c",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(206,34,12,0.4)",
+              "text": "TB tư vấn trễ"
+            },
+            {
+              "color": "#9254de",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            }
+          ],
+          "username": null
+        },
+        {
+          "id": "pzl_259807608268389284",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng Niêm Phong",
+          "phone_number": "+84785321688",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "+RswCuvqRjikqYLF"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 67,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 68,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 69,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 70,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 71,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 72,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 73,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 74,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 75,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 76,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 78,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 79,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#1890ff",
+              "id": 80,
+              "is_lead_event": false,
+              "lighten_color": "rgba(24,144,255,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#1cae67",
+              "id": 81,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84785321688"
+        },
+        {
+          "id": "pzl_566111366783046304",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng Niêm Phong",
+          "phone_number": "+84986997053",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "TEPJOzznc+PA2FGp"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 23,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 26,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 27,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 29,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 28,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 30,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 31,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 32,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 33,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 34,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 36,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 37,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#9254de",
+              "description": "",
+              "id": 38,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#fa8c16",
+              "id": 39,
+              "is_lead_event": false,
+              "lighten_color": "rgba(250,140,22,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84986997053"
+        },
+        {
+          "id": "pzl_209354739838179493",
+          "is_onboard_xendit": null,
+          "name": "Túi Gói Hàng",
+          "phone_number": "+84785601688",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "K33IIM+UKb/ZETjt"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 77,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 78,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 79,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 80,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 81,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 82,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 83,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 84,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 85,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 86,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 88,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 89,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#9254de",
+              "id": 90,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#fa8c16",
+              "id": 91,
+              "is_lead_event": false,
+              "lighten_color": "rgba(250,140,22,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84785601688"
+        },
+        {
+          "id": "pzl_479964960156798113",
+          "is_onboard_xendit": null,
+          "name": "Túi Niêm Phong",
+          "phone_number": "+84978673461",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": true,
+            "current_settings_key": "pancakeDefault"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#4b5577",
+              "id": 0,
+              "lighten_color": "#c9ccd6",
+              "text": "Kiểm hàng"
+            },
+            {
+              "color": "#822ba1",
+              "id": 1,
+              "lighten_color": "#d9bfe2",
+              "text": "Câu hỏi"
+            },
+            {
+              "color": "#0d5aff",
+              "id": 2,
+              "lighten_color": "#b6cdff",
+              "text": "Mua hàng"
+            },
+            {
+              "color": "#009344",
+              "id": 3,
+              "lighten_color": "#b2dec6",
+              "text": "Đã gửi"
+            },
+            {
+              "color": "#38a6f4",
+              "id": 4,
+              "lighten_color": "#c3e4fb",
+              "text": "Hết hàng"
+            },
+            {
+              "color": "#bd2727",
+              "id": 5,
+              "lighten_color": "#ebbebe",
+              "text": "Trả hàng"
+            }
+          ],
+          "username": "pzl_84978673461"
+        },
+        {
+          "id": "pzl_209596044108702629",
+          "is_onboard_xendit": null,
+          "name": "Tuigoihang",
+          "phone_number": "+84989338521",
+          "platform": "personal_zalo",
+          "progressive_catalog_error": null,
+          "settings": {
+            "auto_create_order": false,
+            "current_settings_key": "FO8udQmYz8NVvxef"
+          },
+          "shop_id": 1290002634,
+          "tags": [
+            {
+              "color": "#ff3030",
+              "description": "Khách chê giá cao",
+              "id": 80,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,48,48,0.4)",
+              "text": "TB Giá"
+            },
+            {
+              "color": "#f52b2b",
+              "description": "Khách ở xa không ship được",
+              "id": 81,
+              "is_lead_event": false,
+              "lighten_color": "rgba(245,43,43,0.4)",
+              "text": "TB xa"
+            },
+            {
+              "color": "#c61518",
+              "id": 82,
+              "is_lead_event": false,
+              "lighten_color": "rgba(198,21,24,0.4)",
+              "text": "TB ko có hàng"
+            },
+            {
+              "color": "#da1919",
+              "id": 83,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB thiếu mẫu mã"
+            },
+            {
+              "color": "#f4383b",
+              "id": 84,
+              "is_lead_event": false,
+              "lighten_color": "rgba(244,56,59,0.4)",
+              "text": "TB dò giá"
+            },
+            {
+              "color": "#da1919",
+              "id": 85,
+              "is_lead_event": false,
+              "lighten_color": "rgba(218,25,25,0.4)",
+              "text": "TB chấtlượng SP"
+            },
+            {
+              "color": "#bd2727",
+              "description": "Khách hàng không phản hồi",
+              "id": 86,
+              "is_lead_event": false,
+              "lighten_color": "rgba(189,39,39,0.4)",
+              "text": "TB no reply"
+            },
+            {
+              "color": "#ffc53d",
+              "id": 87,
+              "is_lead_event": false,
+              "lighten_color": "rgba(255,197,61,0.4)",
+              "text": "KH sang Shopee"
+            },
+            {
+              "color": "#9254de",
+              "id": 88,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Đang tư vấn"
+            },
+            {
+              "color": "#1cae67",
+              "id": 89,
+              "is_lead_event": false,
+              "lighten_color": "rgba(28,174,103,0.4)",
+              "text": "Thành công"
+            },
+            {
+              "color": "#9254de",
+              "id": 91,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Liên hệ sau"
+            },
+            {
+              "color": "#71716f",
+              "id": 92,
+              "is_lead_event": false,
+              "lighten_color": "rgba(113,113,111,0.4)",
+              "text": "LH lại khách cũ"
+            },
+            {
+              "color": "#9254de",
+              "id": 93,
+              "is_lead_event": false,
+              "lighten_color": "rgba(146,84,222,0.4)",
+              "text": "Thanh Hoa"
+            },
+            {
+              "color": "#fa8c16",
+              "id": 94,
+              "is_lead_event": false,
+              "lighten_color": "rgba(250,140,22,0.4)",
+              "text": "Mỹ Duyên"
+            }
+          ],
+          "username": "pzl_84989338521"
+        }
+      ]
+    }
+  ],
+  "success": true
+}

@@ -3,6 +3,10 @@ import { z } from "zod";
 const envSchema = z.object({
   PANCAKE_POS_API_KEY: z.string().min(1, "PANCAKE_POS_API_KEY is required"),
   PANCAKE_POS_SHOP_ID: z.string().min(1, "PANCAKE_POS_SHOP_ID is required"),
+  PANCAKE_POS_SHOP_NAME: z.string().default("Shop 1"),
+  PANCAKE_POS_API_KEY_2: z.string().optional(),
+  PANCAKE_POS_SHOP_ID_2: z.string().optional(),
+  PANCAKE_POS_SHOP_NAME_2: z.string().default("Shop 2"),
   PANCAKE_POS_BASE_URL: z
     .string()
     .url()
