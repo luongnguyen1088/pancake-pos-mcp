@@ -1,0 +1,6070 @@
+[
+  {
+    "categories": [],
+    "custom_id": "OS250",
+    "display_id": 749,
+    "id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+    "image": null,
+    "inserted_at": "2026-05-13T05:08:18",
+    "is_published": null,
+    "is_sell_negative": null,
+    "manipulation_warehouses": [],
+    "materials": null,
+    "measure_group_id": null,
+    "name": "Phôi Áo Oversize 250GSM",
+    "note": null,
+    "note_product": "",
+    "product_attributes": [
+      {
+        "id": "2b6f18a7-a977-4948-a043-425aba05212c",
+        "keyword": [
+          {
+            "keyValue": "DEN",
+            "value": "Đen"
+          },
+          {
+            "keyValue": "TRA",
+            "value": "Trắng"
+          },
+          {
+            "keyValue": "XCH",
+            "value": "Xám Chì"
+          },
+          {
+            "keyValue": "NAV",
+            "value": "Xanh Navy"
+          },
+          {
+            "keyValue": "DDO",
+            "value": "Đỏ Đô"
+          },
+          {
+            "keyValue": "XTT",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "keyValue": "HPN",
+            "value": "Hồng Phấn"
+          },
+          {
+            "keyValue": "VNG",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "keyValue": "KBE",
+            "value": "Kem Beige"
+          },
+          {
+            "keyValue": "NDA",
+            "value": "Nâu Đất"
+          },
+          {
+            "keyValue": "HSE",
+            "value": "Hồng Sen"
+          }
+        ],
+        "name": "Màu sắc",
+        "values": [
+          "Đen",
+          "Trắng",
+          "Xám Chì",
+          "Xanh Navy",
+          "Đỏ Đô",
+          "Xanh Thiên Thanh",
+          "Hồng Phấn",
+          "Vàng Nghệ",
+          "Kem Beige",
+          "Nâu Đất",
+          "Hồng Sen"
+        ]
+      },
+      {
+        "id": "26c96896-e457-45ce-bcc1-3ca43d0855eb",
+        "keyword": [
+          {
+            "keyValue": "S",
+            "value": "S"
+          },
+          {
+            "keyValue": "M",
+            "value": "M"
+          },
+          {
+            "keyValue": "L",
+            "value": "L"
+          },
+          {
+            "keyValue": "XL",
+            "value": "XL"
+          }
+        ],
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "supplier_product_ids": [],
+    "tags": [],
+    "type": "product",
+    "variations": [
+      {
+        "barcode": "OS250DENS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DEN-S",
+        "fields": [
+          {
+            "id": "99c6650e-5c44-416e-a25a-74fa556eef79",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "6b6c1b58-1593-4ba5-9f43-2584ef19c15b",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "e6b3460a-c009-4d75-bd55-21cd65c6f8a8",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:18.744710",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:26.651110",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DENM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DEN-M",
+        "fields": [
+          {
+            "id": "384e8477-8f1d-430f-85c4-501225248a2c",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "710bcf12-1fa0-405c-a24d-1e74a403e9c5",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "5300ffc3-240c-4eb7-b2fa-1468268f41c7",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:18.985974",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.860601",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DENL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DEN-L",
+        "fields": [
+          {
+            "id": "690e9dd3-6d48-4763-aa79-b732f123c7dc",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "1b7b6fd3-e303-4105-a0e4-7b6a34b2946b",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "060d4b1c-1910-4042-bf66-bc7d9524de62",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.080332",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.867471",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DENXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DEN-XL",
+        "fields": [
+          {
+            "id": "781bbcbd-d404-4bb4-8e2b-46482537b3b7",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "d2b32f70-fe77-4ace-bad9-6f88d1b447b6",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "d6531f47-18d3-463b-8759-811c58869bfe",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.166021",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.875026",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250TRAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-TRA-S",
+        "fields": [
+          {
+            "id": "aa320cec-ea58-4f42-a078-3845b2af78a3",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "b1780fb7-b7be-4bff-9480-3875405a9927",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "061df0b4-fd6e-4ccb-85a3-796a5fad86ca",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.249172",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.882318",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": 0,
+            "returning_quantity": 0,
+            "selling_avg": 0,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250TRAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-TRA-M",
+        "fields": [
+          {
+            "id": "33114ba2-60df-4b2a-b054-74ec17bbe210",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "09664006-1cce-4c64-84a5-fe1aa2d12e81",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "05bcb6d0-5af2-41a5-8af9-f972ef4bb2b6",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.334035",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.889712",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": null,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250TRAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-TRA-L",
+        "fields": [
+          {
+            "id": "704f0ac2-c86f-446d-9dd0-b07176873499",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "1d1b6268-7a72-4c33-a47f-9e38b4f9cde3",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "d9f5ab6a-1d24-41ed-a3e5-c94bb243f8b7",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.417519",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.897454",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250TRAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-TRA-XL",
+        "fields": [
+          {
+            "id": "a8481c62-9f43-4cf6-a14e-6661d6ad1349",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "8fa84f66-46bd-435d-8b6f-6d206edba836",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "bad2f14d-9d17-460d-a72b-c96794c337b9",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.503634",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.904835",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XCHS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XCH-S",
+        "fields": [
+          {
+            "id": "a06b6c89-a6ab-4a3d-af73-f0d4d0c1d129",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "6dc33693-c239-45d4-881b-3557fe9fc2fe",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "0f1e5358-910a-49f0-9445-7268cf8bb7bd",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.589927",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.910707",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XCHM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XCH-M",
+        "fields": [
+          {
+            "id": "549da413-83fb-4089-9ee3-fa22be2e3ef3",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "9c725985-f949-4caa-b8df-12f9223cb0fd",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "6b0cd074-075e-4b02-83ce-a1bd3632bfce",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.677662",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.915822",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XCHL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XCH-L",
+        "fields": [
+          {
+            "id": "afc756ee-6a80-45a0-a314-bd88b9a32bc7",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "95107fcf-7f30-4fb8-91f4-f346691b2916",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "2d10523c-a4f9-4ebd-a22a-63d282a7940f",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:19.764946",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.922162",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XCHXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XCH-XL",
+        "fields": [
+          {
+            "id": "338d9b05-b9ee-4d8b-8063-5ebec3b9c23c",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "364c88fd-28ed-44bc-b331-5e9e52135274",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "444c0fe8-1bf2-43d6-901a-c8cc484d531b",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.152680",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.929597",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NAVS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NAV-S",
+        "fields": [
+          {
+            "id": "0d951a11-2167-47d1-b1ea-62da39360214",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "0c7cae6a-c445-41fb-b343-9b8f65a9ff8b",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "ae853929-434a-4bb7-b0f8-b3033059f9a1",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.236416",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.935471",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NAVM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NAV-M",
+        "fields": [
+          {
+            "id": "70129d1c-26a2-4b7c-a574-ad6dc8708183",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "77a46c6e-6d86-496a-bb02-96d219dde58f",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "d1af0d30-1382-4aba-a03e-259482a39d8e",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.325996",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.944866",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NAVL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NAV-L",
+        "fields": [
+          {
+            "id": "2644ee8d-de06-481e-8883-6b67f28f89f5",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "bf7bb3be-f5cf-40ef-b6c4-f855c841bb1d",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "a98736aa-9c18-4b56-af00-5f15468d12b6",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.411567",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.951680",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NAVXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NAV-XL",
+        "fields": [
+          {
+            "id": "6ac0849b-b490-4804-a46e-d5c21149a0b3",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "434f49aa-66b8-41e3-93b1-cb18b6582270",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "3bfa432b-429a-4579-a34c-5d98a3ee7fc4",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.499885",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.960268",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DDOS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DDO-S",
+        "fields": [
+          {
+            "id": "d3f4349f-2ba1-4a58-b870-1e316ab632bb",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "ba5212a2-2603-4502-82f4-12ac7fe46546",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "b4ae68dc-ca95-4f58-acdb-f91e737312b7",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.583686",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.967406",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DDOM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DDO-M",
+        "fields": [
+          {
+            "id": "aae1a73f-c0f0-410c-8354-5835ab7d03b8",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "1c2692a4-0031-43aa-b3b9-e1ed743b005b",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "2f96658b-9131-41c0-9b2c-e6291e9c327d",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.706503",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.973776",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": null,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DDOL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DDO-L",
+        "fields": [
+          {
+            "id": "db0c114d-3e1a-46dc-aced-a45c0fefd217",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "a6cf2c73-c784-456c-aeb4-3268490ef176",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "f3fb7d6f-b1d4-4f84-a69a-a7fb627b3315",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.799765",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.981332",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": null,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250DDOXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-DDO-XL",
+        "fields": [
+          {
+            "id": "9555eb96-5939-48b4-8e03-175ec92bf81a",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "d26aee52-e121-45aa-b69d-ac8f2cd2eb6b",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "5f9d2fb7-8d42-4c0f-96e6-6b556aed1605",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:20.882426",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:45.987658",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XTTS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XTT-S",
+        "fields": [
+          {
+            "id": "183cc764-fcdc-43b9-8398-d7b71ae183e7",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "39041517-5a40-4e08-8c12-f21d601799e7",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "81a074d3-927f-47c8-904b-a5f3e79224f6",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.013691",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.000406",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XTTM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XTT-M",
+        "fields": [
+          {
+            "id": "a1b88821-18c5-4be2-af7e-e5dc802212d8",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "6c87acea-1b82-4f24-9fe8-c0bbefa247d0",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "6bcaa35b-4842-4bb0-9a96-947049a34605",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.101326",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.014080",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XTTL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XTT-L",
+        "fields": [
+          {
+            "id": "810e1d06-458e-4460-8e22-6f618c0ddb16",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "c2dfff07-0432-4b84-8887-18807e890127",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "f59d8fac-d684-496e-a667-6e37c8a04e81",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.190723",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.021770",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250XTTXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-XTT-XL",
+        "fields": [
+          {
+            "id": "b4fa54ff-cc5c-4c76-82ef-91ce6b186593",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "85ff0232-0e66-4cb2-af72-c6a3a5af176e",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "3ad7f425-5e9d-497a-88df-1230548caa09",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.279324",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.030003",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HPNS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HPN-S",
+        "fields": [
+          {
+            "id": "707a901c-dbfd-4977-ad7b-db4774347801",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "fe08d8a1-c3da-418d-a9c5-59889e2c2230",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "83cea7e4-2544-4890-bff4-b207a8705f00",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.365012",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.042676",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": 0.5,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HPNM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HPN-M",
+        "fields": [
+          {
+            "id": "87770630-190c-4742-acef-89071f4d2970",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "063565ac-00f1-4809-b6cd-6d30be886d5d",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "3aa19107-50a1-4077-b2cc-03c36bc999ee",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.449423",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.051184",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HPNL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HPN-L",
+        "fields": [
+          {
+            "id": "d01c5087-6928-4d58-afc3-22328faaeced",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "82433f66-beff-482e-b016-f070e5674227",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "897fe1df-22bc-40de-a610-9347df8859b5",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.530440",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.064719",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": 1,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HPNXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HPN-XL",
+        "fields": [
+          {
+            "id": "8fb5f6f2-9182-439d-aac7-9ebbb6ebb782",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "333ba53b-724a-4d94-96e1-37cf22978d68",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "de310c24-6678-4981-bf13-eb3ad11e2b9c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.613827",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.070165",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": 1,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250VNGS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-VNG-S",
+        "fields": [
+          {
+            "id": "ec13b19c-174f-4338-9392-2ee0896d26de",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "436c69b6-3fcc-4b19-8dcf-8166d3fa7a01",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "6984dd13-dc14-43da-8b19-2c9f0c974b79",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.763951",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.076834",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250VNGM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-VNG-M",
+        "fields": [
+          {
+            "id": "cbe01c78-bcb5-4a4b-a3be-ea0c4f55f78a",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "a1e609bf-ec76-434a-9a85-f2f3e4046530",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "d670570a-bc1c-443f-b5c3-7984922e0bae",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.848879",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.083387",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250VNGL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-VNG-L",
+        "fields": [
+          {
+            "id": "d16f43ca-bb4e-44f3-9358-be9194cba744",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "3c18a790-a72c-4203-a699-8ff5f740e331",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "c79933d5-43c0-4bb9-b5f0-e058b6823309",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:21.955109",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.097711",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250VNGXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-VNG-XL",
+        "fields": [
+          {
+            "id": "4bb9a19b-56f6-4173-9f31-fd258709319d",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "399bf8da-2138-49c3-95d1-40bbac2fa1a7",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "08068ff4-94a5-4f64-82f9-76379556d164",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.041191",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.105054",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250KBES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-KBE-S",
+        "fields": [
+          {
+            "id": "98e0cff9-3063-4e9f-8a41-5ca972524a78",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "d1ec6b0f-1c8a-4d0c-a41a-776361922c4e",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "ad9d1763-e012-4984-aeae-135d83fafc3f",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.128581",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.114266",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250KBEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-KBE-M",
+        "fields": [
+          {
+            "id": "b7f21d3a-2b37-4242-86fe-e5e50a4eabd1",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "44aeb6f9-1e8e-49f1-a005-af3cd359f099",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "699b4fab-b9d2-4a07-8d70-64039474d94b",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.214981",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.121436",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": null,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250KBEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-KBE-L",
+        "fields": [
+          {
+            "id": "423619bb-fe81-4029-87eb-c3b1e98a76e0",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "a8431cc0-35b0-44fe-8ea7-4911a67f35a6",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "6c49e8eb-d270-4de1-871f-4bc98ee748f9",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.307995",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.128287",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250KBEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-KBE-XL",
+        "fields": [
+          {
+            "id": "bae5cc9e-fbbc-4d99-a0a7-22f86add2d11",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "dee0fd52-9ba7-4378-a564-06caafc49809",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "3874a303-8815-45c1-887a-f65865507383",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.403772",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.134595",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": null,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NDAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NDA-S",
+        "fields": [
+          {
+            "id": "5d4a4eeb-0572-403b-85e0-d2234bdf0e5a",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "941b844e-bcdb-4887-be41-5c45eb978d63",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "17e0ed11-12c3-4582-9c73-a3fe62d122e9",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.491750",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.144046",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": 0,
+            "returning_quantity": 0,
+            "selling_avg": 0,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NDAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NDA-M",
+        "fields": [
+          {
+            "id": "9b0af139-b28c-446d-8d6d-863c87054f6a",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "45fabec0-04b4-4372-a023-1a5292db4773",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "656c4a5e-5a68-43a1-bee2-33dbafbc134b",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.602174",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.152129",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NDAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NDA-L",
+        "fields": [
+          {
+            "id": "184688b6-b415-4107-9f01-0e91055ea97f",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "79bbb5e5-74b3-48f4-94cb-fbc5f0001fa4",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "50ca46dd-f13c-4b03-bacb-c7a37271f601",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.689073",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.157567",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250NDAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-NDA-XL",
+        "fields": [
+          {
+            "id": "05dc7a7e-2a73-4f6f-8968-d7999afc2c2c",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "d522ff79-a66c-4b80-8253-3fde07e8882b",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "8c85e202-7555-49e6-a04f-ec218f676997",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.774001",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.167368",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HSES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HSE-S",
+        "fields": [
+          {
+            "id": "250e6a15-dae4-41d2-bb59-4f7c00512c67",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "82aa5bda-63dc-42cf-8ece-174d66291536",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "7879db47-88a5-408e-9213-2172ef014c35",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.863212",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.175217",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HSEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HSE-M",
+        "fields": [
+          {
+            "id": "494267e4-d1b3-4244-bbfb-f9d2c095a06d",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "4b66ec25-f181-4ac7-9cd1-9560d7fc0c1d",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "1444f335-2a1d-4dbd-8572-34b41b4142a7",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:22.945787",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.186782",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HSEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HSE-L",
+        "fields": [
+          {
+            "id": "36cd508e-f7d4-405f-b901-73b71814529b",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "e7f1d531-99a6-472e-8a65-780b31adcdaa",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "91cc2e97-7639-43b0-9702-cefaa4d97a4c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:23.030062",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.192671",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS250HSEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS250-HSE-XL",
+        "fields": [
+          {
+            "id": "99afa056-acf4-4a6d-baa8-dc0a095fd623",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "02bd00b5-ff46-4066-a406-db0fece1f1da",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "7c6b2774-09c2-43f3-bf04-7b8077776748",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:23.121077",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "22cb38be-1b69-49b8-8d97-b3bed1130309",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.198152",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      }
+    ]
+  },
+  {
+    "categories": [],
+    "custom_id": "OS230",
+    "display_id": 748,
+    "id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+    "image": null,
+    "inserted_at": "2026-05-13T05:08:08",
+    "is_published": null,
+    "is_sell_negative": null,
+    "manipulation_warehouses": [],
+    "materials": null,
+    "measure_group_id": null,
+    "name": "Phôi Áo Oversize 230GSM",
+    "note": null,
+    "note_product": "",
+    "product_attributes": [
+      {
+        "id": "e92cc5dd-4f15-465e-a8cf-2fa7cbf4ecea",
+        "keyword": [
+          {
+            "keyValue": "DEN",
+            "value": "Đen"
+          },
+          {
+            "keyValue": "TRA",
+            "value": "Trắng"
+          },
+          {
+            "keyValue": "XCH",
+            "value": "Xám Chì"
+          },
+          {
+            "keyValue": "NAV",
+            "value": "Xanh Navy"
+          },
+          {
+            "keyValue": "DDO",
+            "value": "Đỏ Đô"
+          },
+          {
+            "keyValue": "XTT",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "keyValue": "HPN",
+            "value": "Hồng Phấn"
+          },
+          {
+            "keyValue": "VNG",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "keyValue": "KBE",
+            "value": "Kem Beige"
+          },
+          {
+            "keyValue": "NDA",
+            "value": "Nâu Đất"
+          },
+          {
+            "keyValue": "HSE",
+            "value": "Hồng Sen"
+          }
+        ],
+        "name": "Màu sắc",
+        "values": [
+          "Đen",
+          "Trắng",
+          "Xám Chì",
+          "Xanh Navy",
+          "Đỏ Đô",
+          "Xanh Thiên Thanh",
+          "Hồng Phấn",
+          "Vàng Nghệ",
+          "Kem Beige",
+          "Nâu Đất",
+          "Hồng Sen"
+        ]
+      },
+      {
+        "id": "cefb9bb0-ad2d-4944-b587-2b4f5d1e792f",
+        "keyword": [
+          {
+            "keyValue": "S",
+            "value": "S"
+          },
+          {
+            "keyValue": "M",
+            "value": "M"
+          },
+          {
+            "keyValue": "L",
+            "value": "L"
+          },
+          {
+            "keyValue": "XL",
+            "value": "XL"
+          }
+        ],
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "supplier_product_ids": [],
+    "tags": [],
+    "type": "product",
+    "variations": [
+      {
+        "barcode": "OS230DENS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DEN-S",
+        "fields": [
+          {
+            "id": "88fbc0ce-6167-4789-853c-ea892f612628",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "8fedd125-5148-4e06-8993-25a4f93040ee",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "5aeecc3f-9424-411a-99f5-60261f035998",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:08.909338",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.510264",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DENM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DEN-M",
+        "fields": [
+          {
+            "id": "4179cfc4-bf5e-4353-9ea8-47acdbdfddc5",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "5b7e835d-6d91-4746-bcc5-ee35b8b2ab69",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "37fc8db8-ee17-420f-b0bd-f2db84c6ca82",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.164816",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.516788",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DENL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DEN-L",
+        "fields": [
+          {
+            "id": "1f2d2b43-edaf-4572-8239-5a2f33b77f83",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "0863764c-8986-4efb-9ba7-6a414c7e924c",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "a62645d5-016b-49cf-9b9a-f37fa90e5f41",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.241767",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.522191",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DENXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DEN-XL",
+        "fields": [
+          {
+            "id": "89460525-8f35-4ff9-b88e-137f0f6ffe80",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "67645847-1b9e-44b7-b4bf-20424f365f69",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "795f81de-e0f9-470a-830c-3133477d7492",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.327729",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.528938",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230TRAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-TRA-S",
+        "fields": [
+          {
+            "id": "c97a79d7-d2ea-4ff7-8acd-4c36ac24a287",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "a1767f35-677d-4d71-b830-101a877590b3",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "898bd8f4-f33b-405b-91ea-7dc1eff0e2ef",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.410580",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.535429",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230TRAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-TRA-M",
+        "fields": [
+          {
+            "id": "346213a6-8054-4f81-874b-7b1594bc8529",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "ce1c6dde-6379-4d81-b0f7-2624157a4cb7",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "19d6dfb2-cf80-420e-aeae-ff9e2d8d4e92",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.489936",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": -3,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.541384",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -3,
+            "returning_quantity": 0,
+            "selling_avg": 3,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230TRAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-TRA-L",
+        "fields": [
+          {
+            "id": "25df66ee-18c5-4c49-a81d-7d39b1106728",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "348f2b75-686c-4a8b-be72-5667e7691c23",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "f646f47d-8fb6-45bd-af5f-19adb5cdb419",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.631767",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": -2,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.548663",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -2,
+            "returning_quantity": 0,
+            "selling_avg": 2,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230TRAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-TRA-XL",
+        "fields": [
+          {
+            "id": "b39c1d69-8731-4aa5-acfc-b7e60387f627",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "30c43d59-ac97-4245-980c-0f73665dec72",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "7bfe8614-605d-4288-9cd0-f973d9dddc49",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.719097",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.555615",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": 0,
+            "returning_quantity": 0,
+            "selling_avg": 0,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XCHS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XCH-S",
+        "fields": [
+          {
+            "id": "9983339a-e24c-454b-aec4-b89ffd7b8054",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "f8a58b5b-ff79-41a9-85b0-03f0800553d6",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "24337946-a2ea-4513-afa0-b0af8da2d138",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.817648",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.563526",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XCHM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XCH-M",
+        "fields": [
+          {
+            "id": "deed08e5-c953-49aa-9ecb-2b7fea52e3ee",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "4170be1c-5323-4dec-8f65-c8686833772a",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "9a6886df-c6dc-4d26-a83b-bc3172ee38f1",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:09.919739",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.571200",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XCHL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XCH-L",
+        "fields": [
+          {
+            "id": "9463088f-fbf9-42c4-9354-bdca8de68557",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "a188f56b-a5b9-42b2-a5fb-c6cb5ec69d36",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "11f15c95-6853-485a-8f09-464aad4e9711",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.002638",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.582043",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XCHXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XCH-XL",
+        "fields": [
+          {
+            "id": "09478cac-c95b-45d6-b418-99fd12e889d4",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "026f77fe-b951-483b-9651-546607f2bcb1",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "1d4abe43-6835-47eb-a8b4-aa230d15e24c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.084748",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.591325",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NAVS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NAV-S",
+        "fields": [
+          {
+            "id": "15096cbc-be40-4e13-bd0f-809172fafa2d",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "41366fab-a223-4e41-a964-b6e45ce3f39f",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "99fd85f8-6f3a-4e83-b555-9f8ebc510800",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.167242",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.598552",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NAVM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NAV-M",
+        "fields": [
+          {
+            "id": "ade8b78a-8638-4e3f-850c-04f4997aca4b",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "b969a08b-da93-498e-a81f-da01222b3d2e",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "b52f8189-8960-4bc2-bf14-0879c825bcc6",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.245456",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.606057",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NAVL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NAV-L",
+        "fields": [
+          {
+            "id": "30b90bdf-2f59-44da-9e62-0275be957d69",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "155ec548-a2f1-4afd-80b7-2c2aa7a8ede3",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "e82de117-8c08-4e29-be0d-0116e7d8dba9",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.325326",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.617414",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NAVXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NAV-XL",
+        "fields": [
+          {
+            "id": "e83c096d-0a06-4b62-a3a3-26055aafc3a4",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "87c08120-dae8-49f7-aa09-4ed44f79e0ab",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "c7c8f83f-dcfb-4781-8cc4-35460fa3bc09",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.404027",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.624492",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DDOS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DDO-S",
+        "fields": [
+          {
+            "id": "0c4c96b9-1707-4fb6-9b01-6d60e92057ca",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "b86407a9-c952-40e3-addc-dad3d7e79a23",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "beb38fbd-7ae3-4120-88e9-fc33dd9b9df9",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.520109",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.634033",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DDOM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DDO-M",
+        "fields": [
+          {
+            "id": "e3476dfa-7c7c-44a8-b414-5203fa20002b",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "abbe55a6-6fce-40f0-a302-0f82d4f88306",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "0a766004-5338-4a6f-9e4c-09a58e9a542c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.633751",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.641008",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DDOL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DDO-L",
+        "fields": [
+          {
+            "id": "b11bf427-3135-4123-aa31-27f9968eec07",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "ab523b99-391c-4505-923f-8b80c8b0fefe",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "8b5eee9e-a963-4c15-8d84-ffa07e453a8b",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.713834",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.647586",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230DDOXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-DDO-XL",
+        "fields": [
+          {
+            "id": "c756c068-1ade-4c88-a9ff-295a02bbfca4",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "cfe2be10-04da-441e-b077-55a0584b63c9",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "9be71986-71f7-48f4-ae91-b4a48eebddf4",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.794713",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.654637",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XTTS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XTT-S",
+        "fields": [
+          {
+            "id": "03a488be-d4f8-432e-872a-da697cba3cae",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "934fc3bb-7c1d-44a2-8821-6e874b69e8a8",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "902d22aa-e337-46c4-87fa-cc57b9613651",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.872073",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.664034",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XTTM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XTT-M",
+        "fields": [
+          {
+            "id": "6dc9ff63-31f8-4035-92da-e0990a8e36e9",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "05799127-3d1a-450a-a8b0-d4a70daa3037",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "3490af16-fcdf-4589-aaf1-12f9483f6190",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:10.954538",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.695349",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XTTL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XTT-L",
+        "fields": [
+          {
+            "id": "0a943f03-c387-4b88-a971-1ce5704a651f",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "dd139300-5833-4798-9cb8-df4819021691",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "a81325a4-1463-4590-ae25-dd5157c5717a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.035131",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.707308",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230XTTXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-XTT-XL",
+        "fields": [
+          {
+            "id": "028cb03e-9c8e-40fd-a7e9-1492e8307f40",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "e444ec09-99da-4a6e-acb3-00afea2180ae",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "f71227f2-0df8-4274-9b77-85f2bb92ac0e",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.112012",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.713777",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HPNS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HPN-S",
+        "fields": [
+          {
+            "id": "815f6a3d-90ac-42b9-90a1-af9fe9d6a714",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "8ad7dc4a-13d7-4a12-a2d5-670ec03c0256",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "45af187f-76b3-4c41-bccf-54b363cafc60",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.200308",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.719279",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HPNM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HPN-M",
+        "fields": [
+          {
+            "id": "bf4c0ede-b4a4-4912-817b-085537083f8f",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "49aefec3-8429-4f44-b580-ad8aabc9a0e4",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "5ac56e7b-09b9-43cc-bf8f-c4fb9bb3122d",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.284150",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.725084",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HPNL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HPN-L",
+        "fields": [
+          {
+            "id": "e62b92f4-0a80-4a80-a111-8797ce224298",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "7996a611-a986-468b-966c-d59091978296",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "2a831415-8199-45be-88b2-3f5e543711a1",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.359368",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.744746",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HPNXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HPN-XL",
+        "fields": [
+          {
+            "id": "291390f4-b019-474b-bf3c-dca6c783572e",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "9efd45c2-aeb6-485e-8e28-5026ed738dc0",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "af5acb4b-6bbd-4cf1-bff8-7fdd4408edcc",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.440902",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.752475",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230VNGS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-VNG-S",
+        "fields": [
+          {
+            "id": "9de9ad4e-71a6-4e5c-8055-7fdb9f2638dc",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "97c61455-7eec-4311-b0d8-bb8b0b55d021",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "b6ca8d9a-a693-43ef-8865-6bd050c827f0",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.537314",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.759088",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230VNGM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-VNG-M",
+        "fields": [
+          {
+            "id": "d2650bfe-ec72-4d20-b10c-097c515605aa",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "32ed31a9-66d6-4794-bcc7-2d1a35dbb7f9",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "37a8855c-d2d7-4d80-a0eb-6c8d5b79b101",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.622347",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.766580",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230VNGL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-VNG-L",
+        "fields": [
+          {
+            "id": "7d2f836b-c37f-4ef8-9489-a66419bc7846",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "08f9f7b6-31b2-4e84-b825-afc90d43335f",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "ff76ba9f-45a4-4b09-9e63-c1d05ed6a020",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.731451",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.773452",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230VNGXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-VNG-XL",
+        "fields": [
+          {
+            "id": "d50dd7e2-c0e0-4992-bae1-6d9575793b0e",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "6830c7bf-33c9-4b57-9147-e5957dc14fc6",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "51cec551-2bbc-47a8-996d-9dbe71403633",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.809769",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.779359",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230KBES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-KBE-S",
+        "fields": [
+          {
+            "id": "50fd72f8-dda0-4844-82d2-986a161c0481",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "5678f51b-8296-4cc4-844a-7b628ecb03e0",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "3bb5556d-a354-4137-abc7-c19a17f66375",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.892730",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.787401",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230KBEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-KBE-M",
+        "fields": [
+          {
+            "id": "718d0d13-455b-4b05-a645-642d9f496515",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "d6e071f0-775c-4deb-b5a0-6b249f6c4d26",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "d30541aa-d644-47eb-832c-7c6d3db7cb39",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:11.979219",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.796552",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230KBEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-KBE-L",
+        "fields": [
+          {
+            "id": "1fdf9a12-c35b-46e8-8f31-a45d8bfe8793",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "d9811e8d-c694-4fed-9af5-22f6d7c30b23",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "be9c8036-88d7-4e9e-ae8d-b3329d0ba519",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.063488",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.804579",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230KBEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-KBE-XL",
+        "fields": [
+          {
+            "id": "de9713e4-c81f-42b4-83c2-172ff3946139",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "5053b7f5-d9c8-41da-86de-070abc21fd50",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "2411ff9b-10ce-49b9-b87f-5d4a4aee8c05",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.164942",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.809790",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NDAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NDA-S",
+        "fields": [
+          {
+            "id": "c2f70506-5825-4d90-a767-363f3ef6efce",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "59520779-cedb-496b-ae76-a2f489b55254",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "5c884431-a058-4537-995d-e38491f22244",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.254529",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.816879",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NDAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NDA-M",
+        "fields": [
+          {
+            "id": "3faca5b4-a1d2-47d5-9c0d-dd349336856b",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "c2cb6812-26d1-4012-bf9d-3894ef709e02",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "68989f96-7f09-44a3-9715-8b0540115ee3",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.334441",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.823815",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NDAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NDA-L",
+        "fields": [
+          {
+            "id": "d4d8c350-bddd-427d-bb31-6cdfa63c056c",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "1c7ffaf0-5ece-48ee-8270-06c1dd2c5e0f",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "a51ca16c-6495-460b-94a6-eb2f874c7f4e",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.412727",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.831547",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230NDAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-NDA-XL",
+        "fields": [
+          {
+            "id": "2bf09e92-6980-4b3b-b024-0f6cc5e5305d",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "15f2fe5a-8ec8-476a-b4d2-c0f5caa066e3",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "53a0fa41-1b78-4c52-b345-4b3ee70e219a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.496690",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.838561",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HSES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HSE-S",
+        "fields": [
+          {
+            "id": "8e4a6a75-79ad-4d6c-9475-619be2f4f115",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "cfbf0b20-6ab9-492d-987b-b6eb3ae809fa",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "8a8f6c10-3388-4113-8294-5a2eca7994bd",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.578727",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.846100",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HSEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HSE-M",
+        "fields": [
+          {
+            "id": "c32b0bac-a110-4979-a8c3-a63adedac327",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "fd66511f-78c4-4002-b0fb-f898f6a40cb3",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "0e41c140-958b-41dc-bbca-2b54de89541b",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.653915",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.856509",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HSEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HSE-L",
+        "fields": [
+          {
+            "id": "e20b5e50-3b07-4ea1-bdd4-e67a4b8ab959",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "9d5dcd52-7a88-41f0-8d5f-3dd4066341f8",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "beb9d667-b2e1-4863-98b5-2a8ff97883c6",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.734922",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.865188",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS230HSEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS230-HSE-XL",
+        "fields": [
+          {
+            "id": "b3b9efbb-1976-4b2d-bbf7-c01aaa00f8cb",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "cabed4fb-d9a4-4357-8ebd-486e083486f2",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "cc0e8633-ed1c-486e-b76c-5d52949d2759",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:12.815015",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "b6a6730c-3bc8-4b9e-adc9-60af2331c50c",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:46.870938",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      }
+    ]
+  },
+  {
+    "categories": [],
+    "custom_id": "OS210",
+    "display_id": 747,
+    "id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+    "image": null,
+    "inserted_at": "2026-05-13T05:07:58",
+    "is_published": null,
+    "is_sell_negative": null,
+    "manipulation_warehouses": [],
+    "materials": null,
+    "measure_group_id": null,
+    "name": "Phôi Áo Oversize 210GSM",
+    "note": null,
+    "note_product": "",
+    "product_attributes": [
+      {
+        "id": "072ed17c-4684-4c6e-b86a-ce55a688c34c",
+        "keyword": [
+          {
+            "keyValue": "DEN",
+            "value": "Đen"
+          },
+          {
+            "keyValue": "TRA",
+            "value": "Trắng"
+          },
+          {
+            "keyValue": "XCH",
+            "value": "Xám Chì"
+          },
+          {
+            "keyValue": "NAV",
+            "value": "Xanh Navy"
+          },
+          {
+            "keyValue": "DDO",
+            "value": "Đỏ Đô"
+          },
+          {
+            "keyValue": "XTT",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "keyValue": "HPN",
+            "value": "Hồng Phấn"
+          },
+          {
+            "keyValue": "VNG",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "keyValue": "KBE",
+            "value": "Kem Beige"
+          },
+          {
+            "keyValue": "NDA",
+            "value": "Nâu Đất"
+          },
+          {
+            "keyValue": "HSE",
+            "value": "Hồng Sen"
+          }
+        ],
+        "name": "Màu sắc",
+        "values": [
+          "Đen",
+          "Trắng",
+          "Xám Chì",
+          "Xanh Navy",
+          "Đỏ Đô",
+          "Xanh Thiên Thanh",
+          "Hồng Phấn",
+          "Vàng Nghệ",
+          "Kem Beige",
+          "Nâu Đất",
+          "Hồng Sen"
+        ]
+      },
+      {
+        "id": "ffc941c3-a62c-44f6-8c03-6bd9fbdb494b",
+        "keyword": [
+          {
+            "keyValue": "S",
+            "value": "S"
+          },
+          {
+            "keyValue": "M",
+            "value": "M"
+          },
+          {
+            "keyValue": "L",
+            "value": "L"
+          },
+          {
+            "keyValue": "XL",
+            "value": "XL"
+          }
+        ],
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "supplier_product_ids": [],
+    "tags": [],
+    "type": "product",
+    "variations": [
+      {
+        "barcode": "OS210DENS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DEN-S",
+        "fields": [
+          {
+            "id": "6a08ee03-c065-4f80-b414-cb554e2f4cf2",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "9f5d3c24-fff5-47cf-b842-f9cb08a99e5e",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "d2720ace-a0af-4d15-95cd-36b5d896b724",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:58.046234",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.244459",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DENM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DEN-M",
+        "fields": [
+          {
+            "id": "ea9307f8-8b8b-4500-a585-d21fc459d1b0",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "19dc7018-d254-4c3b-a6cd-0b14c007a829",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "9d4e716d-5980-49dd-b764-75802a2a32c5",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:58.783613",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.251883",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DENL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DEN-L",
+        "fields": [
+          {
+            "id": "d8e8be03-21b1-42d5-8555-1532de799f92",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "0b8f88ef-6689-4b94-a790-5e8f48f97496",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "c658632e-d150-44e2-9625-6f50f3ab2e10",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:58.888700",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.257711",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DENXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DEN-XL",
+        "fields": [
+          {
+            "id": "00e92bb8-a1ae-4985-83be-43a140da4d10",
+            "keyValue": "DEN",
+            "name": "Màu sắc",
+            "value": "Đen"
+          },
+          {
+            "id": "dcac7d4f-2efc-486b-96a1-f9433fa9e7cf",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "6ff74702-c6da-4b42-9389-d1b7919ed373",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/6aeec5d1adbe2e514e8877580caa1921d2749c8a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:58.968894",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.263813",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210TRAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-TRA-S",
+        "fields": [
+          {
+            "id": "f1d2a9de-5918-494f-b632-e2081ef50d15",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "d3f471a3-a2b7-48d7-ae03-838f05554fff",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "bd1bd890-da17-4a80-a0ac-756ddf8df67d",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.080205",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.271229",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210TRAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-TRA-M",
+        "fields": [
+          {
+            "id": "7acd8e23-57c3-4d0f-9ce8-069af1d704ed",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "2e219ece-38a1-4a23-8e1f-b932dc7024ca",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "fc83db5b-9a4a-4c7f-b602-dbe0f0f71013",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.240301",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.278137",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210TRAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-TRA-L",
+        "fields": [
+          {
+            "id": "8c45f434-bbec-42ad-82fb-a6d26808cd96",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "65ccfc95-0079-4183-ba3d-64af3e3e8855",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "28a32c69-ea7a-4480-aa13-62ec6faab155",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.347212",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.283853",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210TRAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-TRA-XL",
+        "fields": [
+          {
+            "id": "554d3ebd-34d1-4f96-8b68-6648e7884413",
+            "keyValue": "TRA",
+            "name": "Màu sắc",
+            "value": "Trắng"
+          },
+          {
+            "id": "d8cf94ca-239e-4250-b4b1-01ea5022a225",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "c2fc12b4-7d9b-4c28-9b6c-13b095d82c10",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5f60857d9d2127df0e65b76ff5ada73c42f65dfd.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.432873",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.289843",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XCHS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XCH-S",
+        "fields": [
+          {
+            "id": "8be5ff78-1cdf-4781-8a69-16bdafdb6da7",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "e4c23b97-543b-4d17-8784-0f3f3ae40c6d",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "19ee1b18-8cd9-41f3-af34-7057bca7c8be",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.525160",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.305928",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XCHM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XCH-M",
+        "fields": [
+          {
+            "id": "7afd2406-d6f7-45d6-bc4b-642f7f183bdd",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "6ffc2645-f99d-4f91-8027-ca45cab4e7fa",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "5e635166-eeb6-44fa-9d1e-60f687d7fb23",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.632052",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.313166",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XCHL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XCH-L",
+        "fields": [
+          {
+            "id": "450b1293-d245-425a-918f-f26d94eab8f4",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "0bc9ce0c-c913-497f-95b7-78670ac03daf",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "67be2564-2fd0-4129-a1a2-c6a428746847",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.709705",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.321201",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XCHXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XCH-XL",
+        "fields": [
+          {
+            "id": "369d9153-e0f6-449b-81b9-8263d9a496c9",
+            "keyValue": "XCH",
+            "name": "Màu sắc",
+            "value": "Xám Chì"
+          },
+          {
+            "id": "e76b0ede-fbc8-453b-97ec-71e24b42816a",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "588faa98-3392-4492-9027-10c707c83e8a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/07469cebdfcaf3e025a4c8ffb3c987fae7b384be.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.813361",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.328819",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NAVS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NAV-S",
+        "fields": [
+          {
+            "id": "ce657568-3d42-47cb-a423-a616467f7d2b",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "cd3f1288-3ba9-427a-b8cb-616c2ffa2f75",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "a2761517-6332-4fdc-8a86-31ae04a6b9ca",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.909544",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.335505",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NAVM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NAV-M",
+        "fields": [
+          {
+            "id": "683dcda0-4ec6-43b0-b654-2f4925140f45",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "adc5e4a9-bcf0-4e61-8f73-014856dd5339",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "b21cd497-8824-43f2-b4e0-a62314260904",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:07:59.996130",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": -1,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.342331",
+        "variations_warehouses": [
+          {
+            "actual_remain_quantity": 0,
+            "batch_position": null,
+            "pending_quantity": 0,
+            "remain_quantity": -1,
+            "returning_quantity": 0,
+            "selling_avg": 0.5,
+            "shelf_position": null,
+            "total_quantity": 0,
+            "waiting_quantity": 0,
+            "warehouse_id": "abbf28ae-1514-4aec-82ce-e407605b77d8"
+          }
+        ],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NAVL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NAV-L",
+        "fields": [
+          {
+            "id": "c7df172d-1ec2-481a-b845-4a669db7b443",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "db2b5ddf-f7a4-45ea-a0d3-b6b3d7eac6f6",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "f8890752-d53b-4d3a-a9e7-21e40af1b026",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.075808",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.348386",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NAVXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NAV-XL",
+        "fields": [
+          {
+            "id": "fc311264-649e-4783-8302-71fe8ef05fe1",
+            "keyValue": "NAV",
+            "name": "Màu sắc",
+            "value": "Xanh Navy"
+          },
+          {
+            "id": "6ecfd214-835b-45b4-965d-f6100b1cde80",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "388d2c51-3957-41f4-820e-5a758e3ee3bc",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/31922536540d2f037787d1e4d31509113ff7a064.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.179004",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.356770",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DDOS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DDO-S",
+        "fields": [
+          {
+            "id": "632f21b9-5490-4c09-8283-6f5ecda57e76",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "6ff1cd6a-4519-4ad1-b16f-c939d65b7166",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "bf063dc0-804a-4b26-9961-9643fa86ae11",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.280148",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.363652",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DDOM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DDO-M",
+        "fields": [
+          {
+            "id": "d690f36b-eb69-4d7b-8897-d194ab95fabd",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "47733b65-973c-46cd-b79f-1804fbcbde76",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "5fa79b70-6ca0-445f-8409-05fe4b1f35d5",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.375628",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.370470",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DDOL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DDO-L",
+        "fields": [
+          {
+            "id": "c581a0e6-e7ae-45d9-9d87-8a18d418c6ec",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "944466c9-e362-4484-8bc7-68c14e5528ba",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "efaf2556-aaae-4064-ba52-dc292c1135bb",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.472115",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.376978",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210DDOXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-DDO-XL",
+        "fields": [
+          {
+            "id": "ca820edd-cee1-4c47-a717-1d17b8b775f1",
+            "keyValue": "DDO",
+            "name": "Màu sắc",
+            "value": "Đỏ Đô"
+          },
+          {
+            "id": "0e90fd86-aae7-408a-90fc-40a35959ab31",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "3a801691-9b4f-4aec-bda5-45b4cb650005",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/ba6cfb06e01c0604857cc0235fd8fc84fb1a2fef.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.556253",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.383837",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XTTS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XTT-S",
+        "fields": [
+          {
+            "id": "a644df1f-c607-4107-b54a-1dc8078a27ae",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "9c715987-5016-40c9-9703-a962ada53ff1",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "570d564a-fb85-4115-8701-22b5ad233960",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.658352",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.390211",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XTTM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XTT-M",
+        "fields": [
+          {
+            "id": "8c9f5e4f-fe63-4948-9299-479542539f35",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "84c2e21b-38d7-45c2-9eb3-92c99b57ca19",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "6b691d67-a06d-4d39-87d9-988c713c1ef8",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.738433",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.397519",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XTTL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XTT-L",
+        "fields": [
+          {
+            "id": "7e409d64-773d-451b-b79c-558c063be7fd",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "5e15bc36-5caf-4fd2-82d8-3485b0440cdb",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "e9dd45a2-deff-426f-893f-aa9cf5bbd07f",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.831471",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.404198",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210XTTXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-XTT-XL",
+        "fields": [
+          {
+            "id": "387e1d53-6f1a-4049-9118-6787d4d26f27",
+            "keyValue": "XTT",
+            "name": "Màu sắc",
+            "value": "Xanh Thiên Thanh"
+          },
+          {
+            "id": "2c1ebb85-f31f-40f1-afab-e9eec8a76507",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "c3445213-00a3-4778-a476-bfa3ba025338",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/b83c0b03409a71790ff990a3b89b59af75a61b1b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:00.917971",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.410970",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HPNS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HPN-S",
+        "fields": [
+          {
+            "id": "7bb7c427-ba00-4174-b60b-c2fd48a7721a",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "3e0ad64a-589e-43ef-8bb7-4317a2583703",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "deddcbfc-a35e-41eb-a859-b223c9848e9c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.000774",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.418168",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HPNM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HPN-M",
+        "fields": [
+          {
+            "id": "1c1c8a37-7f0d-4463-84fc-5239eac405de",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "fbc6b3be-941b-4c5d-884c-c4b19f182bb5",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "b40c964e-9c47-4b08-9f02-fb568cb7bf3a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.081645",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.433073",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HPNL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HPN-L",
+        "fields": [
+          {
+            "id": "3cd70086-23e7-4cd0-962e-7d5984a0af58",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "051385cd-4542-439b-b322-76d76edcbc02",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "3f5568d6-1880-4370-8051-ede453b66380",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.181288",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.440708",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HPNXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HPN-XL",
+        "fields": [
+          {
+            "id": "9cae0b9a-6d7a-4209-810f-f4f867902ce8",
+            "keyValue": "HPN",
+            "name": "Màu sắc",
+            "value": "Hồng Phấn"
+          },
+          {
+            "id": "8be31909-2f3e-408b-b2ad-857588b6acbb",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "c76ef787-4048-422e-8b1c-4d69e30d1e55",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/c0cfdd9c1208249bd8c9449063aa5cb71ae209e5.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.341396",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.447641",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210VNGS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-VNG-S",
+        "fields": [
+          {
+            "id": "eb68864c-a9da-4959-8f12-9d024dc2382f",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "99e5f14d-5e1d-427b-a98a-f20d0b521bd1",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "4899fe58-9616-41bc-9019-02860823271c",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.479981",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.453696",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210VNGM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-VNG-M",
+        "fields": [
+          {
+            "id": "bf531cb5-e30b-42fe-9b3e-9df372805ca5",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "767bd4da-d164-49cb-8d0f-e09a051aff62",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "c3285292-5ce4-4e7d-a754-e6f35cab36e1",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.579108",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.458804",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210VNGL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-VNG-L",
+        "fields": [
+          {
+            "id": "53ec97f3-2ec3-4f60-b3e6-89c044ba1ccf",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "02c7b7f4-7997-4106-8a35-e27499f722d3",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "b4e7e3d3-a9ef-437f-9720-e96d4d4298de",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.673933",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.468339",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210VNGXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-VNG-XL",
+        "fields": [
+          {
+            "id": "4e052320-c06f-4740-a570-d3bfb556c53f",
+            "keyValue": "VNG",
+            "name": "Màu sắc",
+            "value": "Vàng Nghệ"
+          },
+          {
+            "id": "4990aeda-2d1e-4d1b-bf99-8d8a42e68e8e",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "be3bffbc-3f6b-4ecd-b8df-44965a99fbf8",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/5935175f8fb151d2e81c3995c5c9934b9cc6141a.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.765098",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.477351",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210KBES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-KBE-S",
+        "fields": [
+          {
+            "id": "fa49e378-7a25-47e1-99da-20bc20442903",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "74560576-9602-4bf4-bb34-905534f356b1",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "908ba910-1cf3-4f62-95c9-f274d7934c43",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.848934",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.487098",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210KBEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-KBE-M",
+        "fields": [
+          {
+            "id": "cb7879a1-ca7c-44e0-bc9e-f30868feaed0",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "f311c167-0ee7-406c-b72c-8ed3d038fa83",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "e2fb2fb4-3ce2-4a42-8be0-358e911ad114",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:01.933659",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.492160",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210KBEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-KBE-L",
+        "fields": [
+          {
+            "id": "387b1052-0b6a-424b-9b24-7ed07f9f5ff5",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "0d77f41c-4dd4-4574-ae1d-c06e0420e8ab",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "f937f5d6-f262-4e7d-831d-e71e2da02831",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.023605",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.497265",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210KBEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-KBE-XL",
+        "fields": [
+          {
+            "id": "87515d8c-5ebc-4c42-ab55-f212ce20d9b7",
+            "keyValue": "KBE",
+            "name": "Màu sắc",
+            "value": "Kem Beige"
+          },
+          {
+            "id": "3573c07f-a1da-4e39-8173-53802a390297",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "dbecbcdd-04a0-4873-89af-3511ea52290d",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/928bdd4e491b27f6d0b28cd8527d0ce8cdd59dea.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.120413",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.502429",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NDAS",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NDA-S",
+        "fields": [
+          {
+            "id": "5ef4f728-578d-40de-a350-8a5b1f45dfb3",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "ae661e5f-bd3b-4a6c-89f1-86d7516c0841",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "ad80bf46-e1d2-4a60-a841-62bbc66179d5",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.204520",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.509490",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NDAM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NDA-M",
+        "fields": [
+          {
+            "id": "3c4af96c-17a1-4e19-b0fa-4e805b7cfe71",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "59992379-339a-4e9e-ae24-bdc6b6863edd",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "5bbe28bc-7ae8-45b5-ba36-5bb352421166",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.288100",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.516044",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NDAL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NDA-L",
+        "fields": [
+          {
+            "id": "7f9d73fb-0ecd-4297-8f58-bf59b5833490",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "f933747c-7d9a-4b80-9982-71cf2e7cdcc5",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "c5ed354b-9047-4431-a72c-038539b10766",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.368825",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.525865",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210NDAXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-NDA-XL",
+        "fields": [
+          {
+            "id": "6ffa6689-041d-4292-9373-8122e1017375",
+            "keyValue": "NDA",
+            "name": "Màu sắc",
+            "value": "Nâu Đất"
+          },
+          {
+            "id": "c069243f-bbf6-4ce8-9fac-0008fde5ed6d",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "02eeff53-dcf1-4970-9f6c-000323e7b536",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/8d86205978e2c76c37e2a61cfce572804da1602d.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.467705",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.535861",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HSES",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HSE-S",
+        "fields": [
+          {
+            "id": "c314b425-daf5-4666-9810-8133f9efcbba",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "7b3e969b-2fdb-4ab0-bb54-beb26cb4425a",
+            "keyValue": "S",
+            "name": "Size",
+            "value": "S"
+          }
+        ],
+        "id": "c294cf11-72bb-4819-aeda-4671224f895a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.565148",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.543596",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HSEM",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HSE-M",
+        "fields": [
+          {
+            "id": "757cb00b-9acd-41c0-babb-46493df8c8e8",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "c7b3b5ba-b296-4845-ad79-de309e6b127a",
+            "keyValue": "M",
+            "name": "Size",
+            "value": "M"
+          }
+        ],
+        "id": "e4399e0f-f3e8-4830-a4c8-8a0ff234e0e4",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.653536",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.552497",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HSEL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HSE-L",
+        "fields": [
+          {
+            "id": "099b7753-a984-4d3f-a6c4-4a72593052ce",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "d9691a56-edb7-4621-90bc-695c544dd63f",
+            "keyValue": "L",
+            "name": "Size",
+            "value": "L"
+          }
+        ],
+        "id": "1736fdef-135c-4ec8-af2f-663563209155",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.741297",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.559887",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      },
+      {
+        "barcode": "OS210HSEXL",
+        "bonus_variations": [],
+        "composite_products": [],
+        "display_id": "OS210-HSE-XL",
+        "fields": [
+          {
+            "id": "76e01e41-eccd-4882-a7d3-51fd31b59a5a",
+            "keyValue": "HSE",
+            "name": "Màu sắc",
+            "value": "Hồng Sen"
+          },
+          {
+            "id": "a67aa844-34af-49aa-816a-bec663e95d06",
+            "keyValue": "XL",
+            "name": "Size",
+            "value": "XL"
+          }
+        ],
+        "id": "b27e48a7-c62d-48c0-b7cf-67389a3ccd5a",
+        "images": [
+          "https://content.pancake.vn/2-2605/2026/5/13/698c302f679bddb1b1d90f1fcf2300ffc0df667b.jpg"
+        ],
+        "inserted_at": "2026-05-13T05:08:02.823506",
+        "is_composite": false,
+        "is_hidden": false,
+        "is_locked": false,
+        "is_removed": null,
+        "is_sell_negative_variation": true,
+        "keyword": null,
+        "last_imported_price": 0,
+        "price_at_counter": 0,
+        "product_id": "520a2645-0d46-486d-9b50-a165f9af70ad",
+        "remain_quantity": 0,
+        "retail_price": 0,
+        "retail_price_after_discount": 0,
+        "updated_at": "2026-05-13T05:09:47.569305",
+        "variations_warehouses": [],
+        "videos": null,
+        "weight": 0,
+        "wholesale_price": []
+      }
+    ]
+  }
+]
